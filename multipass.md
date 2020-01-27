@@ -17,19 +17,6 @@ to download the multipass installation package.
  
 ### Installation Verification
 
-* Verify multipass images on the machine
-
-```
-$ multipass find
-
-Image                   Aliases           Version          Description
-snapcraft:core          core16            20200115         Snapcraft builder for Core 16
-snapcraft:core18                          20200115         Snapcraft builder for Core 18
-16.04                   xenial            20200108         Ubuntu 16.04 LTS
-18.04                   bionic,lts        20200107         Ubuntu 18.04 LTS
-
-```
- 
 * Verify multipass version
  
 ```
@@ -87,7 +74,7 @@ $ multipass launch --name ubuntu-lts
 Launched: ubuntu-lts 
 ```
 
-* Verify running instance 
+* Verify running instance info
 
 ```
 $ multipass info --all
@@ -102,3 +89,17 @@ Disk usage:     999.1M out of 4.7G
 Memory usage:   72.2M out of 985.7M
 ``` 
  
+
+## Exercise: E.Multipass.5
+
+### List of images supported on MacOS: using hyperkit
+
+```
+$ multipass find
+
+Image                   Aliases           Version          Description
+snapcraft:core          core16            20200115         Snapcraft builder for Core 16
+snapcraft:core18                          20200115         Snapcraft builder for Core 18
+16.04                   xenial            20200108         Ubuntu 16.04 LTS
+18.04                   bionic,lts        20200107         Ubuntu 18.04 LTS
+```

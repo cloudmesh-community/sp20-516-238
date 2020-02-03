@@ -1,5 +1,7 @@
 # Data Center Assignment  SP20_516_238
 
+:o2: attending markdown section is mandated. See example how to refer to figures from a text
+
 ## Exercise 2 : Data Center - Carbon Emission & Yearly Cost
 
 

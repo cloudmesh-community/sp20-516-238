@@ -1,18 +1,17 @@
 # Data Center Assignment for week 2
 
-## Exercise 2 : Table
-
- “Worldwide, we have many data centers. Your task will be to find the carbon emission of a data center and its cost in $ based on energy use on a yearly basis. Make sure you avoid redundant reporting and find a new datacenter. Add your data to the table in this link under the Sheet DataCenter”
+## Exercise 2 : Data Center - Carbon Emission & Yearly Cost
 
 
 
 ## Exercise 3 : My Own Carbon footprint
 
-Calculator : <https://coolclimate.berkeley.edu/calculator>
+**Calculator**: <https://coolclimate.berkeley.edu/calculator>
 
-My own carbon footprint: 49 tons CO2/eq per yer (98000 pounds)
+**My own carbon footprint**: 49 tons CO2/eq per yer (98000 pounds)
 
 ![My Own Carbon Footprint](images/my-own-carbon-footprint.png){#fig:my-own-carbon-footprint}
+
 
 ## Exercise 4: Hydro Power: Renewed through natural water cycle
 
@@ -20,7 +19,7 @@ To meet the high power demand from data centers and to minimize the carbon emiss
 
 In simple terms, hydro power starts with with energy from the sun. The heat from sun causes water to evaporate and form the clouds after condensation. Clouds are blown about by the wind and when the droplets and ice crystals that form clouds become too heavy, they fall back onto the ground as rain or snow. The water then flows through the rivers, and generating stations harness this cycle to produce electricity.
 
-![Natual hydro power cycle](images/natural-hydro-power-cycle.png){#fig:natural-hydro-power-cycle} 
+![Natural hydro power cycle](images/natural-hydro-power-cycle.png){#fig:natural-hydro-power-cycle} 
 
 ### Vantage Data Centers - Québec City Data Center Campus, Québec, Canada
 
@@ -28,9 +27,10 @@ Vantage data centers is a leading provider of co-located data centers solutions 
 
 #### References
 
-<http://www.hydroquebec.com/about/our-energy.html>
+* <http://www.hydroquebec.com/about/our-energy.html>
 
-<https://vantage-dc.com/data_centers/quebec-city-data-center-campus/>
+* <https://vantage-dc.com/data_centers/quebec-city-data-center-campus/>
+
 
 ## Exercise 5: Québec, Canada - Utilizing green, reliable and affordable energy
 
@@ -46,9 +46,10 @@ Today Québec is not only home for data centers from major providers like Google
 
 #### References
 
-<http://www.hydroquebec.com/about/our-energy.html>
+* <http://www.hydroquebec.com/about/our-energy.html>
 
-<https://www.investquebec.com/international/en/industries/information-and-communication-technologies/data-centres.html>
+* <https://www.investquebec.com/international/en/industries/information-and-communication-technologies/data-centres.html>
+
 
 ## Exercise 8: Major Data Center Outages
 

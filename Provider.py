@@ -7,13 +7,13 @@ class Provider:
         self.name = name
 
     def find(self):
-        banner(f"launch {self.name}")
-        os.system(f"multipass launch {self.name"}
+        banner(f"find available multipass images")
+        os.system(f"multipass find")
         print('\n')
 
     def launch(self):
         banner(f"launch {self.name}")
-        os.system(f"multipass launch {self.name"}
+        os.system(f"multipass launch -n {self.name}")
         print('\n')
 
     def start(self):
@@ -21,48 +21,42 @@ class Provider:
         os.system(f"multipass start {self.name}")
         print('\n')
 
-    def delete(self, purge=True):
-        banner(f"deleste {self.name}")
-        # terminate and purge
+    def stop(self):
+        banner(f"stop {self.name}")
+        os.system(f"multipass stop {self.name}")
+        print('\n')
+
+    def delete(self):
+        banner(f"delete {self.name}")
+        # delete the instance
         os.system(f"multipass delete {self.name}")
-        # Once purged it cannot be recovered.
-        # So we add a purge bool if we do not want o purge we set it to False
-        if purge:
-            os.system(f"multipass purge")
+
+    # Once purged it cannot be recovered.
+    def purge(self):
+        banner(f"purge")
+        os.system(f"multipass purge")
         print('\n')
 
     def list(self):
         # list instances
-        banner("list")
-        os.system("multipass ls")
-        print('\n')
-
-    def images(self):
-        banner("images list")
-        os.system("multipass find")
+        banner("list the launched instance")
+        os.system("multipass list")
         print('\n')
 
     def shell(self):
-        banner("shell")
-        os.system(f"multipass shell {self.name}")
-        print('\n')
-
-    def run(self, command):
-        # please add self.name so the command gets started on the named vm
-        banner(f"run {self.name} {command}")
-        # improve next line
-        os.system(f"multipass exec -- {self.name} {command}")
+        banner("open shell on running instance")
+        os.system(f"multipass shell")
         print('\n')
 
 
 if __name__ == "__main__":
-    # excellent-titmouse is multipass instance name
-    p = Provider("excellent-titmouse")
-    p.launch()  # falconi edit
+    p = Provider("ubuntu-lts")
+    p.find()
+    p.launch()
     p.list()
-    p.start()
+    p.stop()
     p.list()
-    p.run("uname -r")
-    p.images()
     p.delete()
+    p.list()
+    p.purge()
     p.list()

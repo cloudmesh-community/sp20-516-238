@@ -1,4 +1,4 @@
-# Data Center Assignment for week 2
+# Data Center Assignment - SP20_516_238
 
 ## Exercise 2 : Data Center - Carbon Emission & Yearly Cost
 
@@ -51,5 +51,20 @@ Today Québec is not only home for data centers from major providers like Google
 * <https://www.investquebec.com/international/en/industries/information-and-communication-technologies/data-centres.html>
 
 
-## Exercise 8: Major Data Center Outages
+## Exercise 8: Facebook Data Center Outage in March 2019
 
+In March 2019, Facebook suffered it's worst outage in a decade. The 14-hour outage affected millions of its users and advertisers around the world. Services including Messenger, Instagram, WhatsApp and Facebook Workplace went down during this outage. Many other services that use Facebook credentials were unable to authorize user login and were impacted during this period. 
+
+*   **Date:** March 13th 2019
+*   **Data Center:**  Facebook
+*   **Category:** Configuration Error
+*   **Description:** Due to server configuration changes
+*   **Duration:**  > 14 hours
+*   **Impact:** Large. More than 2 billion people impacted.
+*   **Estimate Cost Impact:** Approximately $80-90 million (based on the figures reported by Facebook)
+
+#### References
+
+* <https://www.datacenterknowledge.com/facebook/facebook-instagram-outage-spreads-users-around-globe>
+
+* <https://www.tsg.com/blog/business-strategy/how-much-did-facebook-outage-really-cost>

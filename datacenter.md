@@ -1,4 +1,4 @@
-# Data Center Assignment - SP20_516_238
+# Data Center Assignment  SP20_516_238
 
 ## Exercise 2 : Data Center - Carbon Emission & Yearly Cost
 

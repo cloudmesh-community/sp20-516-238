@@ -2,8 +2,6 @@
 
 :o2: attending markdown section is mandated. See example how to refer to figures from a text
 
-:o2: attending markdown section is mandated. See example how to refer to figures from a text
-
 ## Exercise 2 : Apple Data Center, Mesa Arizona
 
 Apple used over 1.3 billion kWh of electricity in fiscal year 2018 to power their data centers and other colocation facilities around the world and 100% of this electricity comes from renewable sources. With this effort, Apple was able to avoid equivalent of more than 466,000 metric tons of CO2 emission.

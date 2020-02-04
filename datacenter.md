@@ -4,7 +4,7 @@
 
 ## Exercise 2 : Apple Data Center, Mesa Arizona
 
-Apple used over 1.3 billion kWh of electricity in fiscal year 2018 to power their data centers and other colocation facilities around the world and 100% of this electricity comes from renewable sources. With this effort, Apple was able to avoid equivalent of more than 466,000 metric tons of CO2 emission.
+Apple used over 1.3 billion kWh of electricity in fiscal year 2018 to power their data centers and other co-location facilities around the world and 100% of this electricity comes from renewable sources. With this effort, Apple was able to avoid equivalent of more than 466,000 metric tons of CO2 emission.
 
 Apple's global command data center in Mesa, Arizona opened in March 2017 and it uses 100% renewable energy since opening.
 
@@ -12,7 +12,7 @@ In fiscal year 2018, the Mesa data center utilized 104 million kWh of renewable 
 
 ### Reference
 
-*  <https://www.apple.com/environment/pdf/Apple_Environmental_Responsibility_Report_2019.pdf>  
+*  **Apple Environment Responsibility Report - 2019** <https://www.apple.com/environment/pdf/Apple_Environmental_Responsibility_Report_2019.pdf>  
 
 
 ## Exercise 3 : My Own Carbon footprint

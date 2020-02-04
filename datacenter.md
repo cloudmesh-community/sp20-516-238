@@ -36,7 +36,7 @@ In simple terms, hydro power starts with with energy from the sun. The heat from
 
 Vantage data centers is a leading provider of co-located data centers solutions in North America. Their largest data center in Canada is located at Québec City. With 21MW capacity upon complete development, the data center utilizes nearly 100% hydroelectric power, which creates very little greenhouse gas and no harmful waste to the environment.
 
-#### References
+### References
 
 * <http://www.hydroquebec.com/about/our-energy.html>
 
@@ -55,7 +55,7 @@ Overall, GHG emissions from Québec hydropower (run-of-river generating stations
 
 Today Québec is not only home for data centers from major providers like Google, AWS, IBM but also for many co-located data center providers like Vantage, Cologix.
 
-#### References
+### References
 
 * <http://www.hydroquebec.com/about/our-energy.html>
 
@@ -74,7 +74,7 @@ In March 2019, Facebook suffered it's worst outage in a decade. The 14-hour outa
 *   **Impact:** Large. More than 2 billion people impacted.
 *   **Estimate Cost Impact:** Approximately $80-90 million (based on the figures reported by Facebook)
 
-#### References
+### References
 
 * <https://www.datacenterknowledge.com/facebook/facebook-instagram-outage-spreads-users-around-globe>
 

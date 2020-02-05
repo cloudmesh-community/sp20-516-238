@@ -35,7 +35,7 @@ Vantage data centers is a leading provider of co-located data centers solutions 
 
 With its cool climate, a geographical location that protects it from natural disasters like major earthquakes, and abundant, affordable sources of energy, Québec has become an ideal location for data centers.
 
-Québec province in Canada is the largest producer of hydropower in Canada, with an installed capacity of 36.9 GW and a storage capacity of 176 TWh. Hydropower accounts for 99.8% of all energy produced in Québec and Hydro-Québec is the largest hydropower producer, which transmits and distributes electricity to most of the data centers in the region [sq20-516-238-investquebec].
+Québec province in Canada is the largest producer of hydropower in Canada, with an installed capacity of 36.9 GW and a storage capacity of 176 TWh. Hydropower accounts for 99.8% of all energy produced in Québec and Hydro-Québec is the largest hydropower producer, which transmits and distributes electricity to most of the data centers in the region [sp20-516-238-investquebec].
 
 In 2015, the electricity produced in Québec accounted for 32% of Canada’s total power generated from all sources, but was responsible for only 1% of GHG emissions linked to electric utilities.
 
@@ -55,4 +55,4 @@ In March 2019, Facebook suffered it's worst outage in a decade. The 14-hour outa
 *   **Impact:** Large. More than 2 billion people impacted.
 *   **Estimate Cost Impact:** Approximately $80-90 million (based on the figures reported by Facebook)
 
-Source [@sp20-516-238-facebook2]
+**Source**: [@sp20-516-238-facebook2]

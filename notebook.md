@@ -5,7 +5,7 @@
 * 👍 Attended lecture on 02/03
 * 👍 Found issue with cloudmesh-installer. Cleaned up old installation and re-installed successfully.
 * 👍 Read "Python for Cloud Computing" text book (chapter 6)
-* 👍 Finazlied chapter for book (Azure Ai Services - Azure Bot Services)
+* 👍 Finalized chapter for book (Azure Ai Services - Azure Bot Services)
 * 👍 Worked on cloudmesh common and shell assignments
 
 ## Week 3: 01/27/2020 - 02/02/2020

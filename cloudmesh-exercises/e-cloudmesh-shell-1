@@ -1,0 +1,26 @@
+# fa20-516-238 E.Cloudmesh.Shell.1
+
+(ENV3) ishanmishra@Ishans-MBP cloudmesh % cms
+
++-------------------------------------------------------+
+|   ____ _                 _                     _      |
+|  / ___| | ___  _   _  __| |_ __ ___   ___  ___| |__   |
+| | |   | |/ _ \| | | |/ _` | '_ ` _ \ / _ \/ __| '_ \  |
+| | |___| | (_) | |_| | (_| | | | | | |  __/\__ \ | | | |
+|  \____|_|\___/ \__,_|\__,_|_| |_| |_|\___||___/_| |_| |
++-------------------------------------------------------+
+|                  Cloudmesh CMD5 Shell                 |
++-------------------------------------------------------+
+
+cms> help
+
+Documented commands (type help <topic>):
+========================================
+EOF        data     image      open       register  start      vm
+admin      debug    info       openstack  sec       stop       workflow_draft
+banner     default  init       pause      service   stopwatch
+check      echo     inventory  plugin     set       sys
+clear      flavor   ip         provider   shell     var
+commands   group    key        py         sleep     vbox
+config     help     man        q          source    vcluster
+container  host     multipass  quit       ssh       version

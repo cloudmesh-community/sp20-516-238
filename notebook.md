@@ -13,7 +13,7 @@
 * 👍 Attended lecture on 02/10 & 02/11
 * 👍 Review chapter on Openstack in "Cloud Computing" text book
 * 👍 Read "Python for Cloud Computing" text book (chapter 6)
-* 👍 Selected project (AI Services on Azure & Openstack)
+* 👍 Selected project (Cloudmesh Cloud AI Services on Azure & OpenStack)
 
 ## Week 4: 02/03/2020 - 02/09/2020
 * 👍 Attended lecture on 02/03

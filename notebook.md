@@ -7,6 +7,8 @@
 * 👍 Read "Python for Cloud Computing" text book
 * 👍 Installed mongodb on local and generated ssh key
 * 👍 Created first VM through horizon, logged in from terminal and successfully terminated later
+* 👍 Created first VM through cloudmesh shell using "cms vm boot" command
+* 👍 Used cloudmesh shell commands to login to VM, list VM, stop VM and delete VM
 * 👍 Read text book on Chameleon cloud
 
 ## Week 5: 02/10/2020 - 02/16/2020

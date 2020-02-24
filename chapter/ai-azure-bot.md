@@ -2,7 +2,7 @@
 
 ## Azure Bot Services Overview
 
-Azure Bot Service provides an integrated environment that is purpose-built for bot development, enabling developer to build, connect, test, deploy, and manage intelligent bots, all from one place. Azure Bot Service leverages the Bot Framework SDK with support for C#, JavaScript, Python and Java. Through the use of modular and extensible framework provided by the SDK, tools, templates, and AI services developers can create bots that use speech, understand natural language, handle questions and answers, and more.
+Azure Bot Service provides an integrated environment that is purpose-built for bot development, enabling developer to build, connect, test, deploy, and manage intelligent bots, all from one place. Azure Bot Service leverages the Bot Framework SDK with support for C#, JavaScript, Python and Java. Through the use of modular and extensible framework provided by the SDK, tools, templates, and AI services developers can create bots that use speech, understand natural language, handle questions and answers, and more.[sp20-516-238-azure-bot-service-overview]
 
 The service can be added to websites, apps, email, GroupMe, Facebook Messenger, Kik, Skype, Slack, Microsoft Teams, Telegram, SMS, Twilio, Cortana and Skype for Business. (see @fig:azure-bot-service-channels)
 

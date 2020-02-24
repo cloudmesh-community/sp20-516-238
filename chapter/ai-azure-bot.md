@@ -2,9 +2,9 @@
 
 ## Azure Bot Services Overview
 
-Azure Bot Service provides an integrated environment that is purpose-built for bot development, enabling developer to build, connect, test, deploy, and manage intelligent bots, all from one place. Azure Bot Service leverages the Bot Framework SDK with support for C#, JavaScript, Python and Java. Through the use of modular and extensible framework provided by the SDK, tools, templates, and AI services developers can create bots that use speech, understand natural language, handle questions and answers, and more.[@sp20-516-238-azure-bot-service-overview]
+Azure Bot Service provides an integrated environment that is purpose-built for bot development, enabling developer to build, connect, test, deploy, and manage intelligent bots, all from one place. Azure Bot Service leverages the Bot Framework SDK with support for C#, JavaScript, Python and Java. Through the use of modular and extensible framework provided by the SDK, tools, templates, and AI services developers can create bots that use speech, understand natural language, handle questions and answers, and more [@sp20-516-238-azure-bot-service-overview].
 
-The service can be added to websites, apps, email, GroupMe, Facebook Messenger, Kik, Skype, Slack, Microsoft Teams, Telegram, SMS, Twilio, Cortana, Skype for Business and more. (see @fig:azure-bot-service-channels, for sample list of such channels)
+The service can be added to websites, apps, email, GroupMe, Facebook Messenger, Kik, Skype, Slack, Microsoft Teams, Telegram, SMS, Twilio, Cortana, Skype for Business and more (see @fig:azure-bot-service-channels, for sample list of such channels).
 
 ![Azure Bot Service Integration with Popular Channels](images/azure-bot-service-channels.png){#fig:azure-bot-service-channels}
 
@@ -18,7 +18,7 @@ Bots can do the same things other types of software can do - read and write file
 
 ## Applications
 
-Azure Bot Framework provides a set of templates, solution accelerators and skills to help build sophisticated conversational experiences.[@sp20-516-238-bot-framework-sdk] (see @fig:azure-bot-framework)
+Azure Bot Framework provides a set of templates, solution accelerators and skills to help build sophisticated conversational experiences [@sp20-516-238-bot-framework-sdk] (see @fig:azure-bot-framework).
 
 * **Virtual Assistant**
 
@@ -69,7 +69,7 @@ Building a bot typically includes 6 steps, like any application development cycl
 
 Azure bot framework offers an integrated set of tools and services to facilitate this process. \SDKs exist for C#, JavaScript, TypeScript & Python.
 
-It also provides a variety of samples that showcase many of the capabilities available through the SDK. These are great for developers looking for a more feature rich starting point.[@sp20-516-238-azure-bot-samples]
+It also provides a variety of samples that showcase many of the capabilities available through the SDK. These are great for developers looking for a more feature rich starting point [@sp20-516-238-azure-bot-samples].
 
 ## Pricing
 

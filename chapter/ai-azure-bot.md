@@ -67,7 +67,7 @@ Building a bot typically includes 6 steps, like any application development cycl
 * Connect
 * Evaluate
 
-Azure bot framework offers an integrated set of tools and services to facilitate this process. \SDKs exist for C#, JavaScript, TypeScript & Python.
+Azure bot framework offers an integrated set of tools and services to facilitate this process. SDKs exist for C#, JavaScript, TypeScript & Python.
 
 It also provides a variety of samples that showcase many of the capabilities available through the SDK. These are great for developers looking for a more feature rich starting point [@sp20-516-238-azure-bot-samples].
 

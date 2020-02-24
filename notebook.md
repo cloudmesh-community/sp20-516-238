@@ -10,6 +10,7 @@
 * 👍 Created first VM through cloudmesh shell using "cms vm boot" command
 * 👍 Used cloudmesh shell commands to login to VM, list VM, stop VM and delete VM
 * 👍 Read text book on Chameleon cloud
+* 👍 Contributed to chapter - "Azure Bot Service"
 
 ## Week 5: 02/10/2020 - 02/16/2020
 * 👍 Attended lecture on 02/10 & 02/11

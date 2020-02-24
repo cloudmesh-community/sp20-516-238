@@ -55,3 +55,31 @@ Speech Services convert audio to text, perform speech translation and text-to-sp
 Adaptive Cards are an open standard for developers to exchange card content in a common and consistent way, and are used by Bot Framework developers to create great cross-channel conversational experiences.
 
 ![Azure Bot Framework](images/azure-bot-framework.png){#fig:azure-bot-framework}
+
+## Building a bot
+
+Building a bot typically includes 6 steps, like any application development cycle:
+
+* Plan
+* Build
+* Test
+* Publish
+* Connect
+* Evaluate
+
+Azure bot framework offers an integrated set of tools and services to facilitate this process. \SDKs exist for C#, JavaScript, TypeScript & Python.
+
+It also provides a variety of samples that showcase many of the capabilities available through the SDK. These are great for developers looking for a more feature rich starting point.[@sp20-516-238-azure-bot-samples]
+
+## Pricing
+
+Azure offers a wide variety of pricing options for Bot Service. There is no upfront cost and no termination fee for cancelling the subscription. Refer to [Azure Bot Service Pricing](https://azure.microsoft.com/en-us/pricing/details/bot-service/) [@sp20-516-238-azure-bot-pricing] to calculate the exact pricing for required service.
+
+**Pricing Details**
+
+See @fig:azure-bot-pricing-detail for pricing details for Azure Bot Service:
+
+![Azure Bot Service Pricing Details](images/azure-bot-pricing-detail.png){#fig:azure-bot-pricing-detail}
+
+In addition, one can directly use [Azure Pricing Calculator](https://azure.microsoft.com/en-us/pricing/calculator/) [@sp20-516-238-azure-pricing-calculator] to calculate the pricing of any Azure service by choosing various options.
+

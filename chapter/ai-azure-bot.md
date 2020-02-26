@@ -29,33 +29,33 @@ Azure Bot Framework provides a set of templates, solution accelerators and skill
 
 * **Skills**
 
-A library of re-usable conversational skill building-blocks that enables to add functionality to a Bot. Currently, the offered services include Calendar, Email, Task, Point of Interest, Automotive, Weather and News skills.
+  A library of re-usable conversational skill building-blocks that enables to add functionality to a Bot. Currently, the offered services include Calendar, Email, Task, Point of Interest, Automotive, Weather and News skills.
 
 * **Analytics**
 
-Gain key insights into deployed bot’s health and behavior with the Bot Framework Analytics solutions, which includes: sample Application Insights queries, and Power BI dashboards to understand the full breadth of bot’s conversations with users.
+  Gain key insights into deployed bot’s health and behavior with the Bot Framework Analytics solutions, which includes: sample Application Insights queries, and Power BI dashboards to understand the full breadth of bot’s conversations with users.
 
-Azure Bot Service offers powerful AI capabilities with Azure Cognitive Services [@sp20-516-238-azure-cognitive], such as:
+  Azure Bot Service offers powerful AI capabilities with Azure Cognitive Services [@sp20-516-238-azure-cognitive], such as:
 
 * **Language Understanding**
 
-A machine learning-based service to build natural language experiences. Quickly create enterprise-ready, custom models that continuously improve. Language Understanding Service(LUIS) allows your application to understand what a person wants in their own words.
+  A machine learning-based service to build natural language experiences. Quickly create enterprise-ready, custom models that continuously improve. Language Understanding Service(LUIS) allows your application to understand what a person wants in their own words.
 
 * **QnA Maker**
 
-QnA Maker is a cloud-based API service that creates a conversational, question-and-answer layer over your data. With QnA Maker, you can build, train and publish a simple question and answer bot based on FAQ URLs, structured documents, product manuals or editorial content in minutes.
+  QnA Maker is a cloud-based API service that creates a conversational, question-and-answer layer over your data. With QnA Maker, you can build, train and publish a simple question and answer bot based on FAQ URLs, structured documents, product manuals or editorial content in minutes.
 
 * **Dispatch**
 
-Dispatch tool lets you build language models that allow you to dispatch between disparate components (such as QnA, LUIS and custom code).
+  Dispatch tool lets you build language models that allow you to dispatch between disparate components (such as QnA, LUIS and custom code).
 
 * **Speech Services**
 
-Speech Services convert audio to text, perform speech translation and text-to-speech with the unified Speech services. With the speech services, you can integrate speech into your bot, create custom wake words, and author in multiple languages.
+  Speech Services convert audio to text, perform speech translation and text-to-speech with the unified Speech services. With the speech services, you can integrate speech into your bot, create custom wake words, and author in multiple languages.
 
 * **Adaptive Cards**
 
-Adaptive Cards are an open standard for developers to exchange card content in a common and consistent way, and are used by Bot Framework developers to create great cross-channel conversational experiences.
+  Adaptive Cards are an open standard for developers to exchange card content in a common and consistent way, and are used by Bot Framework developers to create great cross-channel conversational experiences.
 
 ![Azure Bot Framework [@sp20-516-238-azure-bot-framework]](images/azure-bot-framework.png){#fig:azure-bot-framework}
 

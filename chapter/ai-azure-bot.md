@@ -6,7 +6,7 @@ Azure Bot Service provides an integrated environment that is purpose-built for b
 
 The service can be added to websites, apps, email, GroupMe, Facebook Messenger, Kik, Skype, Slack, Microsoft Teams, Telegram, SMS, Twilio, Cortana, Skype for Business and more (see @fig:azure-bot-service-channels, for sample list of such channels).
 
-![Azure Bot Service Integration with Popular Channels](images/azure-bot-service-channels.png){#fig:azure-bot-service-channels}
+![Azure Bot Service Integration with Popular Channels [@sp20-516-238-azure-bot-service-channels]](images/azure-bot-service-channels.png){#fig:azure-bot-service-channels}
 
 ## What is a bot?
 
@@ -54,7 +54,7 @@ Speech Services convert audio to text, perform speech translation and text-to-sp
 
 Adaptive Cards are an open standard for developers to exchange card content in a common and consistent way, and are used by Bot Framework developers to create great cross-channel conversational experiences.
 
-![Azure Bot Framework](images/azure-bot-framework.png){#fig:azure-bot-framework}
+![Azure Bot Framework [@sp20-516-238-azure-bot-framework]](images/azure-bot-framework.png){#fig:azure-bot-framework}
 
 ## Building a bot
 

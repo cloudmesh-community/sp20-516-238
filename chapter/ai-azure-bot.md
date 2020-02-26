@@ -22,7 +22,10 @@ Azure Bot Framework provides a set of templates, solution accelerators and skill
 
 * **Virtual Assistant**
 
-Various organizations have significant need to deliver a conversational assistant tailored to their brand, personalized to their users, and made available across a broad range of canvases and devices.
+  Various organizations have significant need to deliver a conversational assistant tailored to their 
+  brand, personalized to their users, and made available across a broad range of canvases and devices.
+  
+  :o2: look here how we manage indentations
 
 * **Skills**
 

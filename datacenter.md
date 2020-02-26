@@ -14,7 +14,7 @@ In fiscal year 2018, the Mesa data center utilized 104 million kWh of renewable 
 
 * **Calculator**: <https://coolclimate.berkeley.edu/calculator>
 
-* **My own carbon footprint**: 49 tons CO2/eq per yer (98000 pounds) (see @fig:my-own-carbon-footprint).
+* **My own carbon footprint**: 49 tons CO2/eq per yer (98000 pounds) [@sp20-516-238-myowncarbonfootprint] (see @fig:my-own-carbon-footprint).
 
 ![My Own Carbon Footprint](images/my-own-carbon-footprint.png){#fig:my-own-carbon-footprint}
 
@@ -23,7 +23,7 @@ In fiscal year 2018, the Mesa data center utilized 104 million kWh of renewable 
 
 To meet the high power demand from data centers and to minimize the carbon emission, hydro power is a great choice.
 
-In simple terms, hydro power starts with with energy from the sun. The heat from sun causes water to evaporate and form the clouds after condensation. Clouds are blown about by the wind and when the droplets and ice crystals that form clouds become too heavy, they fall back onto the ground as rain or snow. The water then flows through the rivers, and generating stations harness this cycle to produce electricity [@sp20-516-238-hydropower]. (see @fig:natural-hydro-power-generation-cycle)
+In simple terms, hydro power starts with with energy from the sun. The heat from sun causes water to evaporate and form the clouds after condensation. Clouds are blown about by the wind and when the droplets and ice crystals that form clouds become too heavy, they fall back onto the ground as rain or snow. The water then flows through the rivers, and generating stations harness this cycle to produce electricity [@sp20-516-238-hydropower] [@sp20-516-238-hydropower-image] (see @fig:natural-hydro-power-generation-cycle).
 
 ![Natural hydro power cycle](images/natural-hydro-power-cycle.png){#fig:natural-hydro-power-generation-cycle} 
 

@@ -81,7 +81,7 @@ Azure offers a wide variety of pricing options for Bot Service. There is no upfr
 **Pricing Details**
 
 See @fig:azure-bot-pricing-detail for pricing details for Azure Bot Service. 
-![Azure Bot Service Pricing Details](images/azure-bot-pricing-detail.png){#fig:azure-bot-pricing-detail}
+![Azure Bot Service Pricing Details[@sp20-516-238-azure-bot-pricing-detail]](images/azure-bot-pricing-detail.png){#fig:azure-bot-pricing-detail}
 
 In addition, one can directly use [Azure Pricing Calculator](https://azure.microsoft.com/en-us/pricing/calculator/) [@sp20-516-238-azure-pricing-calculator] to calculate the pricing of any Azure service by choosing various options.
 

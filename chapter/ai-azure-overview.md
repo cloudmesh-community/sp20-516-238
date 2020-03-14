@@ -21,6 +21,8 @@ Azure Machine Learning provides rich set of tools required by developers and dat
 * Machine learning CLI
 * Open-source frameworks such as PyTorch, TensorFlow, and scikit-learn and many more
 
+![Open and Flexible Azure ML Platform [sp20-516-238-azure-ml-platform]](images/azure-ml-platform.png){#fig:azure-ml-platform-open&flexible}
+
 
 
 

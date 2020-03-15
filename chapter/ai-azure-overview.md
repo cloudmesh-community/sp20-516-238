@@ -1,6 +1,6 @@
 # AI Services on Azure
 
-Azure AI is a set of AI services built on Microsoft’s research and innovation in vision, speech, language processing, and custom machine learning [sp20-516-238-azure-bot-service-overview]. 
+Azure AI is a set of AI services built on Microsoft’s research and innovation in vision, speech, language processing, and custom machine learning [sp20-516-238-azure-ai-service-overview]. 
 
 **Azure AI helps organizations:**
 
